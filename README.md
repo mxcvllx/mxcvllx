@@ -12,7 +12,8 @@
 </p>
 <br>
 <hr>
-<h3>Brief information:</h3>
+<h3>CERTIFICATE:</h3>
+<img src="серцефикат.PNG">
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Odiljon11&theme=solarized_dark)
